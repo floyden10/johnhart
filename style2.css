@@ -1,0 +1,76 @@
+.img-thumbnail {
+	position: relative;
+    margin-top: 25px;
+    height: 126px;
+    width: 126px;
+}
+.title {
+	color: antiquewhite ;
+}
+
+table {
+	width: 400px;
+	color: antiquewhite;
+	/*border-spacing: 40px;*/
+}
+
+
+
+th {
+
+	text-align: left;
+}
+
+table, th, td {
+	border: 1px solid #999;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 10px;
+}
+
+tr:nth-child(even) {
+	background-color: #fff;
+	/*opacity: 0.1;*/
+}
+
+/*tr:nth-child(odd) {
+	background-color: #ddd;
+}*/
+
+<!--Bio Page-->
+
+.container {
+	text-align: center;
+}
+
+.img {
+	display: block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 350px;
+    height: auto;
+    border-radius: 7%;
+}
+
+.wrapper {
+	margin-right: auto;
+  	margin-left: auto;
+  	max-width: 375px;
+ 	padding-right: 10px;
+  	padding-left: 10px;
+}
+
+a {
+	display: block;
+}
+
+.paragraph {
+	color: #F5F5E9;
+	padding-left: 250px;
+	padding-right: 250px;
+}
+
